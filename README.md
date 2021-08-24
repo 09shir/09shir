@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roy
 - 👀 I’m interested in anything
 - 🌱 I’m currently a Freshman at Simon Fraser University in Computing Science
-- 💞️ I’m looking to collaborate on ... nothing cuz I'm still a
+- 💞️ I’m looking to collaborate on ... nothing cuz I'm just a newbie
 - 📫 How to reach me ... pipiroy03@gmail.com
 
 <!---
