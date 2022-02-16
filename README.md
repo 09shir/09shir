@@ -1,3 +1,5 @@
+This is my Java program for created for IB CS HL Internal Assessment. 
+
 - 👋 Hi, I’m Roy
 - 👀 I’m interested in anything
 - 🌱 I’m currently a Freshman at Simon Fraser University in Computing Science
