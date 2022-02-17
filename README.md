@@ -1,4 +1,4 @@
-This is my Java program for created for IB CS HL Internal Assessment. 
+This is my Java program created for IB CS HL Internal Assessment. 
 
 - 👋 Hi, I’m Roy
 - 👀 I’m interested in anything
