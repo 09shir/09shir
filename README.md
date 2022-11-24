@@ -1,4 +1,8 @@
-This is my Java program created for IB CS HL Internal Assessment. 
+# Homework Planner APP
+
+A Java program with Windowbuilder GUI created for IB CS HL Internal Assessment. 
+
+## To Run
 
 Download and run file HomeworkApp.jar to execute program. Have fun!
 
